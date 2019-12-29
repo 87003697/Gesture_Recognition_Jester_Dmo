@@ -16,4 +16,4 @@ Please have a look at videos in Folder **Jester_video_demo** to see how far did 
 # Attention
 Please make sure a camera is avaible on your laptop/PC.
 
-For any question, please fill free to pull your problem.
+For any question, please feel free to pull your problem. My gmail is mazhiy2008@gmail.com
