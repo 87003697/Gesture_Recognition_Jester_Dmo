@@ -10,6 +10,9 @@ This is demo of dynamic gesture recognition.
 ```
 conda env create -f environment.yml
 ```
+# Video Presentation
+Please have a look at videos in Folder **Jester_video_demo** to see how far did I go. The names of actions in each video are listed on these .mp4 names. 
+
 # Attention
 Please make sure a camera is avaible on your laptop/PC.
 
